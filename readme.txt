@@ -1,1 +1,1 @@
-Here are some exercises form data structures and algorithms in python, in ExercisesLink.txti I showed the path to the folder on github with the tasks.asd
+Here are some exercises form data structures and algorithms in python, in ExercisesLink.txti I showed the path to the folder on github with the tasks.
